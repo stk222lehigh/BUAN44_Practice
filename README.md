@@ -1,2 +1,2 @@
-# BIS44_Practice
+# BUAN44_Practice
 GitKraken Workflow Practice
